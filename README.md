@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @josephquatela
-- 👀 I’m interested in electrical and computer engineering, as well as CS and design.
-- 🌱 I’m currently learning all things programming: languages frameworks, industry norms, etc.
-- 💞️ I’m looking to collaborate on any and all software projects to broaden my capabilities.
-- 📫 How to reach me ... joseph.c.quatela@vanderbilt.edu
+# 👋 Hi, I'm Joey Quatela
+
+**Founder @ [7D Technologies](https://www.sevdeg.com) • Product Designer & Engineer • Inclusive Innovation Advocate**
+
+🎓 USC Iovine & Young Academy • Vanderbilt University (CompE)  
+🔧 Building future-forward assistive tech like [EasyButton](https://www.sevdeg.com/easybutton) to empower independence  
+🎨 Bridging code, design, and strategy — one tool at a time  
+📍 Based in Los Angeles | Always prototyping | Let’s build something that matters
+
+---
+
+💡 *“Accessibility should be beautiful. Independence should be effortless.”*
+
+🚀 Currently working on:  
+- 💼 Launching 7D’s first product, EasyButton  
+- 🤝 Partnering with OTs and the disability community  
+- 🛠️ Rapid prototyping inclusive hardware  
+- 📣 Building a community around accessible innovation
+
+📬 Feel free to connect or reach out — collaboration is my favorite language.
+
 
 <!---
 josephquatela/josephquatela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
