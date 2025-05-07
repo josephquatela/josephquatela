@@ -3,7 +3,7 @@
 **Founder @ [7D Technologies](https://www.sevdeg.com) • Product Designer & Engineer • Inclusive Innovation Advocate**
 
 🎓 USC Iovine & Young Academy • Vanderbilt University (CompE)  
-🔧 Building future-forward assistive tech like [EasyButton](https://www.sevdeg.com/easybutton) to empower independence  
+🔧 Building future-forward assistive tech like [EasyButton](https://www.sevdeg.com/) to empower independence  
 🎨 Bridging code, design, and strategy — one tool at a time  
 📍 Based in Los Angeles | Always prototyping | Let’s build something that matters
 
